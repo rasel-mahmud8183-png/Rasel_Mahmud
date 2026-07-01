@@ -1,25 +1,101 @@
-
-
-
-
-
-
-             𝗙𝗨𝗖𝗞
-
-
-
-
-
-
-
-                          𝗜𝗗 
-
-
-
-
-
-
-
-
-
-         𝗠𝗔𝗥𝗔 𝗞𝗛𝗔𝗕𝗜 😁
+[
+    {
+        "key": "sb",
+        "value": "kROIaeESY5XgTbkEiof781KQ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-01T14:03:44.227Z",
+        "lastAccessed": "2026-07-01T14:03:44.227Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-01T14:03:44.227Z",
+        "lastAccessed": "2026-07-01T14:03:44.227Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-01T14:03:44.227Z",
+        "lastAccessed": "2026-07-01T14:03:44.227Z"
+    },
+    {
+        "key": "datr",
+        "value": "e78halxCVwa4-u7JyfCWwFwH",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-01T14:03:44.227Z",
+        "lastAccessed": "2026-07-01T14:03:44.227Z"
+    },
+    {
+        "key": "pas",
+        "value": "61585924275501%3A2XSY2QwRvm",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-01T14:03:44.227Z",
+        "lastAccessed": "2026-07-01T14:03:44.227Z"
+    },
+    {
+        "key": "dpr",
+        "value": "2.625",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-01T14:03:44.227Z",
+        "lastAccessed": "2026-07-01T14:03:44.227Z"
+    },
+    {
+        "key": "wd",
+        "value": "980x1926",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-01T14:03:44.227Z",
+        "lastAccessed": "2026-07-01T14:03:44.227Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61591403550993",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-01T14:03:44.227Z",
+        "lastAccessed": "2026-07-01T14:03:44.227Z"
+    },
+    {
+        "key": "xs",
+        "value": "33%3AbRXcC1WCtJDAdw%3A2%3A1782914569%3A-1%3A-1%3A%3AAcxK_KG67Ux7kE0s2hIbVZihivAi5ErV3nWHWZn6Mw",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-01T14:03:44.227Z",
+        "lastAccessed": "2026-07-01T14:03:44.227Z"
+    },
+    {
+        "key": "fr",
+        "value": "1JK14umiGuraScOCC.AWcrjbLwYOsVChchHfvDbGabWs250qt-nNX4K5vVnPhp4b_k0fs.BqRR4S..AAA.0.0.BqRR4U.AWfmYbD2ry9rbuV2LgVuhWG-0KY",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-01T14:03:44.227Z",
+        "lastAccessed": "2026-07-01T14:03:44.227Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1782914596804%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-01T14:03:44.227Z",
+        "lastAccessed": "2026-07-01T14:03:44.227Z"
+    }
+]
